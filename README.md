@@ -1,3 +1,4 @@
 # Durumi
 
-## this is Durumi project
+## Welcome to the Durumi initiative! 
+:)
